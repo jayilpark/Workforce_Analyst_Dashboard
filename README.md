@@ -3,7 +3,7 @@ Sample Excel Dashboard for workforce analytics
 
 📊 [Download the Sample Dashboard](./Dashboard_Workforce_Analytics.xlsx)
 
-Author: Jay Park
+Author: Jay Park  |  
 Aspiring Data Analyst | Excel Enthusiast | Lifelong Learner
 
 A sample Excel dashboard designed for workforce analytics, showcasing key hiring metrics with interactive filtering.
